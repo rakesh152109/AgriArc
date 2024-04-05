@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.highZIndex{
+
+    z-index: 99999999999999999999999;
+}

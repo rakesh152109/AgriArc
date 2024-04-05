@@ -1,0 +1,11 @@
+
+
+.rounded_bg{
+
+    background:  radial-gradient(closest-side, #d5feb2 ,#84e28a ,#45b86a);
+}
+
+.bg-green{
+
+    background:  radial-gradient(closest-side ,#adfaa2,#63ce7c);
+}
